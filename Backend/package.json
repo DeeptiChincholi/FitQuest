@@ -8,9 +8,8 @@
   },
   "type": "module",
   "scripts": {
-
-  "dev": "vite",
-  "build": "vite build",
+    "dev": "vite",
+    "build": "vite build",
     "start": "node server.js"
   },
   "name": "backend",
@@ -21,6 +20,7 @@
   "license": "ISC",
   "description": "",
   "devDependencies": {
-    "nodemon": "^3.1.9"
+    "nodemon": "^3.1.9",
+    "vite": "^6.2.0"
   }
 }
